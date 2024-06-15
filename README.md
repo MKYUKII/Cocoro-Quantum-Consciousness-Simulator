@@ -1,0 +1,2 @@
+# Cocoro-Quantum-Consciousness-Simulator
+意識の量子場理論に基づくシミュレーションフレームワーク
